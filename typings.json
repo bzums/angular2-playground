@@ -1,0 +1,8 @@
+{
+  "name": "angular2-playground",
+  "version": false,
+  "globalDependencies": {
+    "es6-shim": "github:DefinitelyTyped/DefinitelyTyped/es6-shim/es6-shim.d.ts#c0d876601e0f8236fd6b57626eb62c4e485f1563",
+    "jasmine": "github:DefinitelyTyped/DefinitelyTyped/jasmine/jasmine.d.ts#c0d876601e0f8236fd6b57626eb62c4e485f1563"
+  }
+}
